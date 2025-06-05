@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**giovav/giovav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student using GitHub mainly for learning and personal growth.  
+Most of the repositories you'll find here are **educational projects**, **experiments**, or exercises as I explore how to write better, cleaner, and more maintainable code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm doing here:
+
+- Practicing software development the right way (or trying to)
+- Learning by doing – even when it breaks
+- Building small things to understand big concepts
+
+---
+
+## 📚 Current focus:
+
+- Programming fundamentals and clean code
+- Version control and collaborative workflows
+- Web development & backend basics
+- Getting familiar with open-source tools and practices
+
+---
+
+## ❓ Serious projects?
+
+Not yet — I’m still learning and experimenting.  
+I don’t have any major collaborations going on right now, but who knows? I’m open to opportunities in the future.
+
+---
+
+## ☕ Let's connect
+
+Feel free to check out what I’m working on, or reach out if you have advice, ideas, or just want to say hi.
+
+> "Learning in public, one commit at a time."
