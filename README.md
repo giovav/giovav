@@ -1,7 +1,9 @@
-# 🌝 Hi there!
-This is how i feel when my code has **bugs**🐞🐛🪲🪳🕷️
-
-![Me](https://c.tenor.com/MIb7N00dBf8AAAAC/tenor.gif)
+<div align="center">
+  <h1>🌝 Hi there!</h1>
+  This is how i feel when my code has <b>bugs</b>🐞🐛🪲🪳🕷️
+  
+  ![Me](https://c.tenor.com/MIb7N00dBf8AAAAC/tenor.gif)
+</div>
 
 --- 
 
