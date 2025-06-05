@@ -29,6 +29,7 @@ A few things I’ve been working on:
 ---
 <div align="center">
   <b>🫢 Thanks for reading !</b>
+  
   Hope you found something interesting (If not… well, i’m <b>working on it</b>!😅)
   
   ![Me](https://i.pinimg.com/originals/ef/ba/62/efba62f209ca2cc400e8083212d64472.gif)
