@@ -13,8 +13,6 @@ I’m diving into software engineering principles, clean code, and building thin
 
 > Always learning, always refactoring 🥲.
 
-Thanks for stopping by 👨‍💻💖
-
 ## 📚 What I’m Learning
 I’m focusing on:
 - Software engineering fundamentals
@@ -28,7 +26,7 @@ A few things I’ve been working on:
 
 ---
 <div align="center">
-  <b>🫢 Thanks for reading !</b>
+  <b>Thanks for stopping by 👨‍💻💖</b>
   
   Hope you found something interesting (If not… well, i’m <b>working on it</b>!😅)
   
