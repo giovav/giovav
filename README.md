@@ -27,10 +27,10 @@ A few things I’ve been working on:
 - 🧪 Practice repos – experimenting and improving day by day
 
 ---
-
-**🫢 Thanks for reading !** 
-
-Hope you found something interesting (If not… well, I’m **working on it** 😅)
-
-![Me](https://i.pinimg.com/originals/ef/ba/62/efba62f209ca2cc400e8083212d64472.gif)
+<div align="center">
+  <b>🫢 Thanks for reading !</b>
+  Hope you found something interesting (If not… well, i’m <b>working on it</b>!😅)
+  
+  ![Me](https://i.pinimg.com/originals/ef/ba/62/efba62f209ca2cc400e8083212d64472.gif)
+</div>
 
