@@ -1,5 +1,7 @@
 # 👋 Hi there!
+
 ![Me](https://tenor.com/view/snoopy-sad-cry-tantrums-tears-gif-16441308)
+
 I'm a Computer Science student using GitHub mainly for learning and personal growth.  
 Most of the repositories you'll find here are **educational projects**, **experiments**, or exercises as I explore how to write better, cleaner, and more maintainable code.
 
